@@ -19,3 +19,15 @@ PASSO 2: Depois de colocar o robô no CoppeliaSim é possível fazer as juntas i
 | <img src="https://github.com/user-attachments/assets/d9d8fcf0-ca39-4030-9855-2d9cc04afeae" width="500px" /> |
 |----------|
 | Figura 3 |
+
+PASSO 3: O robô e as juntas podem mudar de posição com alguns comandos do CoppeliaSim, comandos os quais são indicados na figura 4.
+
+| <img src="https://github.com/user-attachments/assets/d395bef3-d48b-484a-accf-1f625cd5074d" width="500px" /> |
+|----------|
+| Figura 4 |
+
+PASSO 4: No fim das configurações o robô fica disposto no CoppeliaSim como ilustrado na figura 5.
+
+| <img src="https://github.com/user-attachments/assets/ef13e004-a03f-44d2-a4ef-4cc05ad98572" width="500px" /> |
+|----------|
+| Figura 5 |
